@@ -1,0 +1,1 @@
+$("document").ready(function(){$.stellar({horizontalScrolling:!1,responsive:!0,positionProperty:"transform"}),console.log("123")});
